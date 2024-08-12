@@ -2,3 +2,6 @@
 
 my fortune teller works like this: put in a yes or no question and it will predict the anwser.
 https://replit.com/@almightyalexand/fortune-teller?v=1#index.html
+![Screenshot 2024-08-12 11 20 53 AM](https://github.com/user-attachments/assets/fec023f1-0ee2-4b7c-a05f-a447ff51de0d)
+![Screenshot 2024-08-12 11 20 36 AM](https://github.com/user-attachments/assets/eae07154-f22f-43c5-b890-26ce01bd63fe)
+![My Stop Motion Movie(2) (1)](https://github.com/user-attachments/assets/0dc2c32e-4fc6-4f36-9c0a-025a6ce94957)
